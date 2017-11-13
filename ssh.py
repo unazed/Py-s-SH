@@ -155,10 +155,3 @@ class SSH(object):
 
     def close(self):
         self.socket.close()
-
-
-a = SSH('', 'nan shanker', 2222)
-a.binary_packet_create("hi")
-a.listen()
-a.handle_connections()
-a.close()
