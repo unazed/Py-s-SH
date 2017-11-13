@@ -1,9 +1,7 @@
 # Py-s-SH
 
 (pronounced: pi-sh,
-
  imaginatively pronounced as: phish,
- 
  unimaginatively pronounced as: pie-es-sh)
 
 
