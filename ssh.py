@@ -4,7 +4,6 @@ SSH reimplementation in Python, made by Unazed Spectaculum under the MIT license
 
 import socket
 import struct
-import pprint
 
 
 class SSH(object):
